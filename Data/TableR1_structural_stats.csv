@@ -1,0 +1,5 @@
+relationship,total_messages,subj_messages,partner_messages,subj_total_tokens,subj_avg_tokens_per_msg
+WZP_F,18180,6510,11670,53068,8.15
+WZP_K,31309,11660,19649,109946,9.43
+WZP_S,20243,8601,11642,67792,7.88
+WZP_T,56549,18925,37624,134405,7.1

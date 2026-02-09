@@ -1,0 +1,5 @@
+relationship,total_tokens,emotional_expression_per1k,emotional_labor_per1k,role_constraint_per1k,identity_continuity_per1k,cognitive_style_per1k,social_obligation_per1k
+WZP_F,53068,4.862,0.829,0.283,293.209,3.203,12.493
+WZP_K,109946,10.46,1.155,0.509,312.144,5.212,9.341
+WZP_S,67792,6.874,0.354,0.295,333.564,5.517,8.157
+WZP_T,134405,7.277,0.848,0.625,321.833,6.406,6.979
