@@ -1,0 +1,5 @@
+label,file,n_messages,tokens,humor_markers,humor_per_1k
+baseline,Subj_533.txt,533,76459,50,0.6539
+tribe,Combined_banter.txt,2640,217817,323,1.4829
+four_guys,Anonymized_4_guys.txt,6967,66695,1659,24.8744
+acquaintances,Chat_with_Raver.txt,1204,8567,495,57.7799

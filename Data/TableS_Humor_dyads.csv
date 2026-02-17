@@ -1,0 +1,5 @@
+label,file,n_messages,tokens,humor_markers,humor_per_1k
+WZP_F,WZP_F.txt,6510,50889,2713,53.3121
+WZP_K,WZP_K.txt,11660,105901,3278,30.9534
+WZP_S,WZP_S.txt,8601,65049,1302,20.0157
+WZP_T,WZP_T.txt,18925,129560,5223,40.3134
