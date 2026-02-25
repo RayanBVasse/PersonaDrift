@@ -1,0 +1,66 @@
+================================================================================
+TABLE: LETA Emotion Profiles Across Environments
+================================================================================
+
+Mean emotion rates (per 1,000 tokens) by environment:
+
+environment   banter  baseline  four_guys
+emotion                                  
+anger          5.403     6.338     11.260
+anticipation  22.237    21.853     30.846
+disgust        4.368     4.412      7.777
+fear           8.273     9.676     13.760
+joy           17.381    18.634     29.506
+sadness        7.896     9.019     12.681
+surprise       9.286     9.483     14.917
+trust         26.831    27.085     38.668
+
+--------------------------------------------------------------------------------
+Temporal variability (SD across 14 bins) by environment:
+
+environment   banter  baseline  four_guys
+emotion                                  
+anger          1.207     1.687      3.482
+anticipation   3.316     4.133      4.177
+disgust        0.931     1.048      2.038
+fear           1.297     2.304      4.190
+joy            2.943     4.587      3.177
+sadness        1.053     2.618      3.059
+surprise       1.143     2.360      2.135
+trust          2.272     3.223      5.834
+
+--------------------------------------------------------------------------------
+Cross-environment comparisons (Cohen's d):
+
+env_1          banter            baseline
+env_2        baseline four_guys four_guys
+emotion                                  
+anger          -0.079    -0.182    -0.136
+anticipation    0.012    -0.157    -0.149
+disgust        -0.003    -0.130    -0.117
+fear           -0.081    -0.154    -0.104
+joy            -0.045    -0.223    -0.182
+sadness        -0.071    -0.142    -0.098
+surprise       -0.010    -0.150    -0.132
+trust          -0.008    -0.193    -0.171
+
+--------------------------------------------------------------------------------
+Significant comparisons (p < .05):
+
+  fear            | banter       vs baseline     | d = -0.081 | p = 0.0392
+  anger           | banter       vs four_guys    | d = -0.182 | p = 0.0000
+  anticipation    | banter       vs four_guys    | d = -0.157 | p = 0.0000
+  disgust         | banter       vs four_guys    | d = -0.130 | p = 0.0000
+  fear            | banter       vs four_guys    | d = -0.154 | p = 0.0000
+  joy             | banter       vs four_guys    | d = -0.223 | p = 0.0000
+  sadness         | banter       vs four_guys    | d = -0.142 | p = 0.0000
+  surprise        | banter       vs four_guys    | d = -0.150 | p = 0.0000
+  trust           | banter       vs four_guys    | d = -0.193 | p = 0.0000
+  anger           | baseline     vs four_guys    | d = -0.136 | p = 0.0000
+  anticipation    | baseline     vs four_guys    | d = -0.149 | p = 0.0000
+  disgust         | baseline     vs four_guys    | d = -0.117 | p = 0.0000
+  fear            | baseline     vs four_guys    | d = -0.104 | p = 0.0000
+  joy             | baseline     vs four_guys    | d = -0.182 | p = 0.0000
+  sadness         | baseline     vs four_guys    | d = -0.098 | p = 0.0000
+  surprise        | baseline     vs four_guys    | d = -0.132 | p = 0.0000
+  trust           | baseline     vs four_guys    | d = -0.171 | p = 0.0000

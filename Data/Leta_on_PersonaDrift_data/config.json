@@ -1,0 +1,32 @@
+{
+    "nrc_lexicon_path": "NRC-Emotion-Lexicon-Wordlevel-v0.92.txt",
+
+    "environments": [
+        {
+            "name": "baseline",
+            "filepath": "Subj_533.txt",
+            "format": "chatgpt",
+            "subject_identifiers": ["Subj_533", "user"]
+        },
+        {
+            "name": "tribe",
+            "filepath": "Combined_banter.txt",
+            "format": "chatgpt",
+            "subject_identifiers": ["Subj_533", "user"]
+        },
+        {
+            "name": "four_guys",
+            "filepath": "Anonymized_4_guys.txt",
+            "format": "whatsapp",
+            "subject_identifiers": ["Mr_Y", "\ud83d\udd06 Mr_Y"]
+        }
+    ],
+
+    "output_csv": "persona_drift_leta_emotions.csv",
+
+    "analysis_settings": {
+        "n_bins": 14,
+        "min_tokens_per_message": 3,
+        "core_emotions": ["anger", "anticipation", "disgust", "fear", "joy", "sadness", "surprise", "trust"]
+    }
+}

@@ -1,0 +1,6 @@
+,msg_index,total_tokens,total_tokens,score_anger,score_joy,score_sadness,score_fear,score_trust,score_anticipation
+,count,sum,mean,mean,mean,mean,mean,mean,mean
+environment,,,,,,,,,
+banter,2637,305568,115.8771,0.0054,0.0174,0.0079,0.0083,0.0268,0.0222
+baseline,533,97629,183.1689,0.0063,0.0187,0.009,0.0097,0.0271,0.0219
+four_guys,6187,115056,18.5964,0.0113,0.0295,0.0127,0.0138,0.0387,0.0308
