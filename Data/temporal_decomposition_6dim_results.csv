@@ -1,0 +1,25 @@
+Environment,Dimension,Variable,Mean,Raw SD,Trend Slope (per bin),Trend Direction,Trend p,Trend R²,Detrended SD,% Variance (Trend),% Variance (Residual)
+Baseline,Emotional Expression,emo_rate,1.203,0.336,-0.0283,ns,0.2169,0.124,0.315,12.4,87.6
+Baseline,Self-Regulation,repair_rate,0.194,0.123,0.0041,ns,0.6342,0.019,0.122,1.9,98.1
+Baseline,Register Shifts,hedge_rate,7.385,0.845,-0.01,ns,0.8671,0.002,0.844,0.2,99.8
+Baseline,Cognitive Elaboration,abstract_rate,10.139,0.792,0.0726,ns,0.1754,0.147,0.731,14.7,85.3
+Baseline,Self-Referential Consistency,first_person_rate,54.322,7.629,0.7707,ns,0.1322,0.179,6.914,17.9,82.1
+Baseline,Social Obligation,coord_rate,13.618,1.248,0.094,ns,0.2727,0.099,1.184,9.9,90.1
+Tribe,Emotional Expression,emo_rate,2.046,0.9,-0.068,ns,0.2709,0.1,0.854,10.0,90.0
+Tribe,Self-Regulation,repair_rate,0.18,0.147,-0.0075,ns,0.4627,0.046,0.144,4.6,95.4
+Tribe,Register Shifts,hedge_rate,7.289,1.054,-0.0367,ns,0.6193,0.021,1.042,2.1,97.9
+Tribe,Cognitive Elaboration,abstract_rate,9.62,1.512,-0.0265,ns,0.8036,0.005,1.508,0.5,99.5
+Tribe,Self-Referential Consistency,first_person_rate,74.241,10.877,-0.185,ns,0.809,0.005,10.85,0.5,99.5
+Tribe,Social Obligation,coord_rate,15.097,1.908,0.1842,ns,0.1523,0.163,1.746,16.3,83.7
+Four Guys,Emotional Expression,emo_rate,1.856,1.269,-0.0027,ns,0.9758,0.0,1.269,0.0,100.0
+Four Guys,Self-Regulation,repair_rate,0.188,0.137,-0.004,ns,0.682,0.014,0.136,1.4,98.6
+Four Guys,Register Shifts,hedge_rate,3.683,1.055,-0.018,ns,0.8079,0.005,1.052,0.5,99.5
+Four Guys,Cognitive Elaboration,abstract_rate,5.155,1.493,0.2776,UP,0.0011,0.605,0.938,60.5,39.5
+Four Guys,Self-Referential Consistency,first_person_rate,27.574,12.206,-1.9253,DOWN,0.0102,0.435,9.171,43.5,56.5
+Four Guys,Social Obligation,coord_rate,11.361,1.388,-0.0111,ns,0.9096,0.001,1.388,0.1,99.9
+Acquaintances,Emotional Expression,emo_rate,2.483,2.006,-0.0999,ns,0.4749,0.043,1.962,4.3,95.7
+Acquaintances,Self-Regulation,repair_rate,1.12,0.928,-0.0767,ns,0.2258,0.12,0.871,12.0,88.0
+Acquaintances,Register Shifts,hedge_rate,4.161,1.876,0.0692,ns,0.5984,0.024,1.853,2.4,97.6
+Acquaintances,Cognitive Elaboration,abstract_rate,3.197,1.316,0.0518,ns,0.5736,0.027,1.298,2.7,97.3
+Acquaintances,Self-Referential Consistency,first_person_rate,38.059,8.221,0.3459,ns,0.5472,0.031,8.093,3.1,96.9
+Acquaintances,Social Obligation,coord_rate,10.996,3.768,0.1554,ns,0.5553,0.03,3.711,3.0,97.0

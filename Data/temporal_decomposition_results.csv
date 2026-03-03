@@ -1,0 +1,13 @@
+Environment,Dimension,Mean,Raw SD,Trend Slope (per bin),Trend Direction,Trend p,Trend R²,Detrended SD,% Variance (Trend),% Variance (Residual)
+Baseline,Emotional Expression,1.203,0.336,-0.0283,—,0.2169,0.124,0.315,12.4,87.6
+Baseline,Social Obligation,13.618,1.248,0.094,—,0.2727,0.099,1.184,9.9,90.1
+Baseline,Cognitive Elaboration,10.139,0.792,0.0726,—,0.1754,0.147,0.731,14.7,85.3
+Tribe,Emotional Expression,2.046,0.9,-0.068,—,0.2709,0.1,0.854,10.0,90.0
+Tribe,Social Obligation,15.097,1.908,0.1842,—,0.1523,0.163,1.746,16.3,83.7
+Tribe,Cognitive Elaboration,9.62,1.512,-0.0265,—,0.8036,0.005,1.508,0.5,99.5
+Four Guys,Emotional Expression,1.856,1.269,-0.0027,—,0.9758,0.0,1.269,0.0,100.0
+Four Guys,Social Obligation,11.361,1.388,-0.0111,—,0.9096,0.001,1.388,0.1,99.9
+Four Guys,Cognitive Elaboration,5.155,1.493,0.2776,↑,0.0011,0.605,0.938,60.5,39.5
+Acquaintances,Emotional Expression,2.483,2.006,-0.0999,—,0.4749,0.043,1.962,4.3,95.7
+Acquaintances,Social Obligation,10.996,3.768,0.1554,—,0.5553,0.03,3.711,3.0,97.0
+Acquaintances,Cognitive Elaboration,3.197,1.316,0.0518,—,0.5736,0.027,1.298,2.7,97.3
