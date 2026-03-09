@@ -51,3 +51,10 @@ Notes
 
 Identifiers used in the original communication logs differ across environments (e.g., anonymized group aliases versus personal handles). These identifiers were mapped a priori to a single subject for analytic consistency, as described in the manuscript.
 Raw chat logs are not included due to privacy constraints.
+
+# References
+Vasse, R.B. (2026). A Three-Pronged Validation Framework for AI-Based Emotion Extraction: Distinguishing Expressed from Felt Emotion. Zenodo. DOI: 10.5281/ZENODO.18890981 https://doi.org/10.5281/ZENODO.18890981
+
+Vasse, R.B. (2026). Measuring Within-Person Variation in Written Communication Patterns Across Social Contexts. Zenodo. DOI: 10.5281/ZENODO.18890804 https://doi.org/10.5281/ZENODO.18890804
+
+Vasse, R.B. (2026). Blind Spots in AI-Based Longitudinal Psychological Inference: A Single-Subject Validation Study. Zenodo. DOI: 10.5281/ZENODO.18825307 https://doi.org/10.5281/ZENODO.18825307
